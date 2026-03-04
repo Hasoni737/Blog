@@ -3,7 +3,7 @@
 A full-stack blog web application built using Laravel.
 This project allows users to register, create and manage blog posts, comment on posts, filter by categories, and manage their profiles with avatar images.
 
----
+
 ## ✨ Features
 
 - User authentication (Register & Login)
@@ -22,7 +22,7 @@ Create, edit, and delete own posts
 - Separate pages: Home, Blog, About, Contact
 - Profile image appears next to posts and comments (like social media apps)
 
----
+
 ## 🛠️ Technologies Used
 
 - Laravel
@@ -34,7 +34,7 @@ Create, edit, and delete own posts
 - Bootstrap
 - JavaScript
 
----
+
 ## 📂 Project Structure
 
 - Users
@@ -43,7 +43,7 @@ Create, edit, and delete own posts
 - Categories
 - Profiles (Avatar system)
 
----
+
 ## 🔐 Authentication & Authorization
 
 - Users must log in to create posts
@@ -51,7 +51,7 @@ Create, edit, and delete own posts
 - Users can only delete their own comments
 - Secure profile update (name, email, password)
 
----
+
 ## 🚀 Purpose of the Project
 
 - This project was built to practice:
