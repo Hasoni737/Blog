@@ -1,13 +1,10 @@
-📝 Laravel Blog Project (Fullstack Laravel)
+## 📝 Laravel Blog Project (Fullstack Laravel)
 
 A full-stack blog web application built using Laravel.
 This project allows users to register, create and manage blog posts, comment on posts, filter by categories, and manage their profiles with avatar images.
 
-🌐 Live Demo
 
-👉 (Add your link here if available)
-
-✨ Features
+## ✨ Features
 
 User authentication (Register & Login)
 
@@ -37,7 +34,7 @@ Separate pages: Home, Blog, About, Contact
 
 Profile image appears next to posts and comments (like social media apps)
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Laravel
 
@@ -55,7 +52,7 @@ Bootstrap
 
 JavaScript
 
-📂 Project Structure
+## 📂 Project Structure
 
 Users
 
@@ -67,7 +64,7 @@ Categories
 
 Profiles (Avatar system)
 
-🔐 Authentication & Authorization
+## 🔐 Authentication & Authorization
 
 Users must log in to create posts
 
@@ -77,7 +74,7 @@ Users can only delete their own comments
 
 Secure profile update (name, email, password)
 
-🚀 Purpose of the Project
+## 🚀 Purpose of the Project
 
 This project was built to practice:
 
